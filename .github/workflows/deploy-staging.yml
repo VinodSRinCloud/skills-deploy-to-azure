@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: VinodSRinCloud-azure-ttt
-  AZURE_WEBAPP_NAME: VinodSRinCloud-ttt-app
+  DOCKER_IMAGE_NAME: VinodSR-azure-ttt
+  AZURE_WEBAPP_NAME: VinodSR-ttt-app
   ###############################################
 
 jobs:
